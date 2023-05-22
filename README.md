@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubaid Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg2YTdiYzZmZWUzYzYyMWU0NDYyM2U1NDIzYjEyMjE5MGRiYzBkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/359865826460057563/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildwebbb&label=Profile%20views&color=0e75b6&style=flat" alt="wildwebbb" /> </p>
 
