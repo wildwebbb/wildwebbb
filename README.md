@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubaid Hassan</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116(https://www.pinterest.com/pin/coding--291397038380287858/)">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding--291397038380287858/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildwebbb&label=Profile%20views&color=0e75b6&style=flat" alt="wildwebbb" /> </p>
 
