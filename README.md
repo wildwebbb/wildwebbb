@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/wild_webbb" target="blank"><img src="https://img.shields.io/twitter/follow/wild_webbb?logo=twitter&style=for-the-badge" alt="wild_webbb" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Angular JS**
+- 🌱 I’m currently learning **JS, React JS, Angular JS**
 
-- 💬 Ask me about **WordPress, Frontend Development**
+- 💬 Ask me about **WordPress, Frontend Web Development**
 
 - 📫 How to reach me **wild.webbb@gmail.com**
 
